@@ -402,8 +402,6 @@ header.active  #toggle::after{
     }
     .banner{
         padding: 100px 50px 150px 11px;
-        background-position: 51% 50%;
-
     }
     .banner.active{
         transform: translate(-250px);
