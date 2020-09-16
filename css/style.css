@@ -28,9 +28,10 @@ header{
 }
 header .logo{
     /* position: relative; */
-    max-width: 80px;
-    -web-kit-height:40px;
-    filter: invert(100%);
+   width: 100vw;
+height: 100vh;
+
+
     
 }
 header span{
