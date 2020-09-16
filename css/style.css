@@ -28,6 +28,7 @@ header{
 }
 header .logo{
    max-height: 80px;
+    max-width:80px;
     filter:invert(100%); 
 }
 header span{
