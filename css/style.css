@@ -336,6 +336,9 @@ header.active  #toggle::after{
     transition: 0.5s;
     
 }
+.service_section .container .service_box img{
+ max-width:30px;
+}
 /**************OUR SERVICE END***********************/
 
 
